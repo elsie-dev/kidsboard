@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Kids Center</title>
+    </head>
+    <body>
+        <h2><b>Montenssori Kids</b></h2>
+        <!-- loop through all the images -->
+        {% for pic in photo %}
+        <h2>{{pic.title}}</h2>
+            <img src="{{https://res.cloudinary.com/dzapibglb/image/upload/v1667319319/xq8ozhtrounprzo4m97d.jpg}}" alt="kid">
+        {% endfor %}
+    </body>
+</html>
