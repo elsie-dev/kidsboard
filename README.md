@@ -2,7 +2,7 @@
 This repo is a blog that helpas anyone who wants to understand what montessorri learning and parenting is all about.
 The code is written in django framework, uses Cloudinary for image upload and Xata for its database.
 
-## Prequestites:
+## Prerequisite:
 Install Python3
 
 Install Django
