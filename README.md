@@ -23,3 +23,8 @@ cloudinary.config(
 )
 
 ```
+
+Websites used: 
+[https://www.section.io/engineering-education/uploading-images-to-cloudinary-from-django-application/] (Cloudinary with django blog)
+
+[https://djangocentral.com/building-a-blog-application-with-django/] (https://djangocentral.com/building-a-blog-application-with-django/)
