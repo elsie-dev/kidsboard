@@ -141,7 +141,7 @@ INSTALLED_APPS = [
 
 # adding config
 cloudinary.config(
-  cloud_name = "dzapibglb",
-  api_key = "764531297646374",
-  api_secret = "8OKjl3_cLNARAgu60gGDNJrRpZM"
+  cloud_name = "your cloud name",
+  api_key = "your api key",
+  api_secret = "your api sceret" 
 )
