@@ -25,6 +25,9 @@ cloudinary.config(
 ```
 
 Websites used: 
-[https://www.section.io/engineering-education/uploading-images-to-cloudinary-from-django-application/] (Cloudinary with django blog)
+https://www.section.io/engineering-education/uploading-images-to-cloudinary-from-django-application/
 
-[https://djangocentral.com/building-a-blog-application-with-django/] (https://djangocentral.com/building-a-blog-application-with-django/)
+https://djangocentral.com/building-a-blog-application-with-django/
+
+
+Hackmamba Instruction  Manual. https://hackmamba.notion.site/hackmamba/Hackmamba-Content-Hackathon-Participant-Instruction-Manual-7d7e7e25d01246a49260d774daf3da9a
